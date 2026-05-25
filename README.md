@@ -43,16 +43,15 @@ Basic responsive design
 
 <h3>🎯 Learning Outcomes</h3>
 <br>
-Improved understanding of
-<br>
-CSS layout (Flexbox)
-<br>
-Learned how to structure real-world web pages
-<br>
-Practiced UI cloning and styling techniques
-<br>
-Gained experience in organizing project files
-<br>
+<ul><li>mproved understanding of</li>
+<li>CSS layout (Flexbox)</li>
+
+<li>Learned how to structure real-world web pages</li>
+
+<li>Practiced UI cloning and styling technique</li>
+
+<li>Gained experience in organizing project files</li></ul>
+
 <h3>📸 Screenshots</h3>
 <br>
 <h3>🙌 Acknowledgement</h3>
