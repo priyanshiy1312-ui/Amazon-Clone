@@ -11,7 +11,8 @@ This is a fronted UI practice project. No real data is collected.
 
 
 
-📌 Features<br>
+<h3>📌 Features</h3>
+ <br>
 ✅ Amazon-like homepage UI
 <br>
 ✅ Hero section with banner
@@ -24,17 +25,23 @@ This is a fronted UI practice project. No real data is collected.
 <br>
 ✅ Fully built using HTML & CSS (no JavaScript)
 <br>
-🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 <br>
-HTML5
-<br>
-CSS3
-<br>
-Flexbox
-<br>
+<ul>
+<li> HTML5</li> 
+<li>CSS3<li>
+<li>Flexbox</li>
+
+<li>Basic responsive design</li>
+
+</ul>
+
+
+
+
 Basic responsive design
-<br>
-🎯 Learning Outcomes
+
+<h3>🎯 Learning Outcomes</h3>
 <br>
 Improved understanding of
 <br>
@@ -46,13 +53,14 @@ Practiced UI cloning and styling techniques
 <br>
 Gained experience in organizing project files
 <br>
-📸 Screenshots<br>
-🙌 Acknowledgement
+<h3>📸 Screenshots</h3>
+<br>
+<h3>🙌 Acknowledgement</h3>
 <br>
 This project was built with guidance from tutorials by Shraddha Ma’am (Apna College).
 <br>
 
-📬 Contact
+<h3>📬 Contact</h3>
 <br>
 If you have any suggestions or feedback, feel free to connect!
 <br>
