@@ -89,5 +89,5 @@ This project was built with guidance from tutorials by Shraddha Ma’am (Apna Co
 <br>
 If you have any suggestions or feedback, feel free to connect!
 <br>
-<hr>
+
 ⭐ If you like this project, don’t forget to star the repository!
