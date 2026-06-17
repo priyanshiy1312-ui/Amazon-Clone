@@ -8,10 +8,7 @@ A responsive front-end clone of the Amazon homepage built using HTML and CSS. Th
 
 This is a fronted UI practice project. No real data is collected.
 <br>
-<h3>🚀 Live Demo</h3>
-<br>
-🔗 link here:(https://priyanshiy1312-ui.github.io/Amazon-Clone/)
-
+<hr>
 
 <h3>📌 Features</h3>
  <br>
@@ -27,6 +24,7 @@ This is a fronted UI practice project. No real data is collected.
 <br>
 ✅ Fully built using HTML & CSS (no JavaScript)
 <br>
+<hr>
 <h3>🛠️ Tech Stack</h3>
 <br>
 <ul>
