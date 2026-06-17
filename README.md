@@ -30,7 +30,7 @@ This is a fronted UI practice project. No real data is collected.
 <br>
 <ul>
 <li> HTML5</li> 
-<li>CSS3<li>
+<li>CSS3</li>
 <li>Flexbox</li>
 <li>Basic responsive design</li>
 
@@ -39,12 +39,19 @@ This is a fronted UI practice project. No real data is collected.
 <h3>📂 Project Structure</h3>
 <br>
 Amazon-Homepage-Clone/
+<br>
 │
+<br>
 ├── index.html
+<br>
 ├── style.css
+<br>
 ├── assets/
+<br>
 │   ├── images/
+<br>
 │   └── icons/
+<br>
 └── README.md
 <br>
 <hr>
