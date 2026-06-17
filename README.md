@@ -25,22 +25,29 @@ This is a fronted UI practice project. No real data is collected.
 ✅ Fully built using HTML & CSS (no JavaScript)
 <br>
 <hr>
+
 <h3>🛠️ Tech Stack</h3>
 <br>
 <ul>
 <li> HTML5</li> 
 <li>CSS3<li>
 <li>Flexbox</li>
-
 <li>Basic responsive design</li>
 
 </ul>
-
-
-
-
-Basic responsive design
-
+<hr>
+<h3>📂 Project Structure</h3>
+<br>
+Amazon-Homepage-Clone/
+│
+├── index.html
+├── style.css
+├── assets/
+│   ├── images/
+│   └── icons/
+└── README.md
+<br>
+<hr>
 <h3>🎯 Learning Outcomes</h3>
 <br>
 <ul><li>mproved understanding of</li>
@@ -51,17 +58,18 @@ Basic responsive design
 <li>Practiced UI cloning and styling technique</li>
 
 <li>Gained experience in organizing project files</li></ul>
-
+<hr>
 <h3>📸 Screenshots</h3>
 <br>
+<hr>
 <h3>🙌 Acknowledgement</h3>
 <br>
 This project was built with guidance from tutorials by Shraddha Ma’am (Apna College).
 <br>
-
+<hr>
 <h3>📬 Contact</h3>
 <br>
 If you have any suggestions or feedback, feel free to connect!
 <br>
-
+<hr>
 ⭐ If you like this project, don’t forget to star the repository!
