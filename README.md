@@ -55,7 +55,18 @@ Amazon-Homepage-Clone/
 └── README.md
 <br>
 <hr>
-<h3>🎯 Learning Outcomes</h3>
+<h3>🎯 Project Objective</h3>
+<br>
+The goal of this project was to improve front-end development skills by recreating a real-world e-commerce homepage. It focuses on:
+
+<uL><li>HTML page structure</li>
+<li>CSS Flexbox and Grid</li>
+<li>Responsive layouts</li>
+<li>UI replication</li>
+<li>Web design fundamentals</li></uL>
+<br>
+<hr>
+<h3>📚 Learning Outcomes</h3>
 <br>
 <ul><li>mproved understanding of</li>
 <li>CSS layout (Flexbox)</li>
